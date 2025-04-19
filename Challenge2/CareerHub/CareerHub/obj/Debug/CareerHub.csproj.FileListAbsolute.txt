@@ -1,0 +1,8 @@
+C:\Users\vikas\OneDrive\Desktop\CareerHub\CareerHub\bin\Debug\CareerHub.exe.config
+C:\Users\vikas\OneDrive\Desktop\CareerHub\CareerHub\bin\Debug\CareerHub.exe
+C:\Users\vikas\OneDrive\Desktop\CareerHub\CareerHub\bin\Debug\CareerHub.pdb
+C:\Users\vikas\OneDrive\Desktop\CareerHub\CareerHub\obj\Debug\CareerHub.csproj.AssemblyReference.cache
+C:\Users\vikas\OneDrive\Desktop\CareerHub\CareerHub\obj\Debug\CareerHub.csproj.CoreCompileInputs.cache
+C:\Users\vikas\OneDrive\Desktop\CareerHub\CareerHub\obj\Debug\CareerHub.exe
+C:\Users\vikas\OneDrive\Desktop\CareerHub\CareerHub\obj\Debug\CareerHub.pdb
+C:\Users\vikas\OneDrive\Desktop\CareerHub\CareerHub\bin\Debug\dbconfig.properties.txt

@@ -1,0 +1,1 @@
+connectionString=Data Source=VIKASH\MSSQLSERVER1;Initial Catalog=CareerHubDB;Integrated Security=True
